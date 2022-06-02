@@ -1,0 +1,16 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #fff3e3;
+}
+
+nav	{
+	background-color: #fff3e3;
+}
+
+.text-dark {
+	font-size: 18px;
+}
+
+.contact {
+	margin-right: 3rem !important;
+}
